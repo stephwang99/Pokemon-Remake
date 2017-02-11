@@ -4,3 +4,5 @@ This was my first programming project. I learned VB first in school, and this wa
 I really liked the game Pokemon so I decided to make a remake.
 To make it go faster to look through, I made the tackle move automatically 'kill' the opponents.
 All other moves make proper amount of damage.
+There are still some errors with the code though, and I never got back to it to fix.
+For example: Evolution is not working, and some minor bugs.
